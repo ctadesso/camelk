@@ -1,1 +1,1 @@
-=== Docker Repo for Camel-K Artifacts ===
+# Docker Repo for Camel-K Artifacts
